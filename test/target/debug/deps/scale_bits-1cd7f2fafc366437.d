@@ -1,0 +1,10 @@
+/workspaces/rust/test/target/debug/deps/scale_bits-1cd7f2fafc366437.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/bits/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/bits/bits.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/scale/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/scale/decode_iter.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/scale/encode_iter.rs
+
+/workspaces/rust/test/target/debug/deps/libscale_bits-1cd7f2fafc366437.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/bits/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/bits/bits.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/scale/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/scale/decode_iter.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/scale/encode_iter.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/bits/mod.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/bits/bits.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/scale/mod.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/scale/decode_iter.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-bits-0.7.0/src/scale/encode_iter.rs:

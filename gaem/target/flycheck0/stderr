@@ -1,0 +1,4 @@
+    Checking gaem v0.1.0 (/workspaces/rust/gaem)
+error: could not compile `gaem` (bin "gaem") due to 2 previous errors
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `gaem` (bin "gaem" test) due to 2 previous errors
